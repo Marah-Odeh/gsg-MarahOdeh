@@ -19,7 +19,7 @@ header {
   align-items: center;
   padding: 40px 130px;
 }
-
+/*menu proparities */
 .navigation .Menu {
   display: none;
 }
@@ -571,5 +571,3 @@ details[open] > summary > img {
   font-weight: 500;
 }
 
-.contact input[type="email"]:invalid {
-}
